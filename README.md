@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, this is zhejiangzhuque 👋
+
+- 🔭 We are a passionate team of experts specializing in science and AI, particularly focused on large-scale models and graph neural networks.
+- 💬 How to reach me: mailto:zhuquezhitu@zhejianglab.com
+- 😄 Welcome to visit https://zhejiangzhuque.github.io
+
+ps: 之江实验室朱雀团队，招聘多名人才，包括PI和高级研究专员等，欢迎关注，推荐！
 
 <!--
 **zhejiangzhuque/zhejiangzhuque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
